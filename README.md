@@ -24,7 +24,7 @@ To run this script, ensure you have the following installed:
 
 ## File Description
 1. DigitalAd_dataset.csv: Dataset containing age, salary, and purchase status.
-2. digital_ad_prediction.py: Python script implementing the predictive model.
+2. Advertisement_Sales_Prediction_Using_Logistic_Regression.ipynb.py: Python script implementing the predictive model.
 
 ## Additional Notes
 1. Ensure the dataset file is correctly formatted and contains the necessary columns.
