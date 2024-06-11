@@ -1,4 +1,4 @@
-# Advertisement_Sales_Prediction_Using_Logistic_Regression
+# Advertisement Sales Prediction Using Logistic_Regression
 
 ## Introduction
 This Python script builds a machine learning model to predict whether a new customer will buy a product based on their age and salary. It uses logistic regression as the underlying algorithm.
