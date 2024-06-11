@@ -6,7 +6,7 @@ This Python script builds a machine learning model to predict whether a new cust
 ## Prerequisites
 To run this script, ensure you have the following installed:
 
-1.Python 3.x
+1. Python 3.x
 2. pandas
 3. numpy
 4. scikit-learn
